@@ -10,7 +10,8 @@ const __dirname = path.dirname(__filename);
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/Cafe-Portfolio/",
+  base: "./",
+  build: { outDir: "docs", emptyOutDir: true },
   plugins: [react(), tailwindcss(), viteSingleFile()],
   resolve: {
     alias: {

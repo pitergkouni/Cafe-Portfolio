@@ -7,7 +7,7 @@ export default function About() {
           <div className="relative">
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="/images/about.jpg"
+                src="./images/about.jpg"
                 alt="Barista crafting coffee"
                 className="w-full h-[520px] object-cover"
               />

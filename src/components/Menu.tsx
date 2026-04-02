@@ -11,7 +11,7 @@ const menuItems = [
     desc: "A rich, velvety double shot with notes of dark chocolate and toasted hazelnut.",
     price: "$4.50",
     tag: "Signature",
-    image: "/images/coffee1.jpg",
+    image: "./images/coffee1.jpg",
   },
   {
     id: 2,
@@ -51,7 +51,7 @@ const menuItems = [
     desc: "House sourdough, smashed avocado, poached eggs, micro greens & dukkah.",
     price: "$15.00",
     tag: "Bestseller",
-    image: "/images/food1.jpg",
+    image: "./images/food1.jpg",
   },
   {
     id: 6,
@@ -91,7 +91,7 @@ const menuItems = [
     desc: "Classic French-style, layers of golden butter pastry, baked fresh each morning.",
     price: "$4.50",
     tag: "Daily Fresh",
-    image: "/images/pastry1.jpg",
+    image: "./images/pastry1.jpg",
   },
   {
     id: 10,

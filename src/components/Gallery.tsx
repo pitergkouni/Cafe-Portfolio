@@ -1,9 +1,9 @@
 const galleryItems = [
-  { src: "/images/hero.jpg", span: "col-span-2 row-span-2", label: "Our Space" },
-  { src: "/images/coffee1.jpg", span: "", label: "Signature Coffee" },
-  { src: "/images/pastry1.jpg", span: "", label: "Fresh Pastries" },
-  { src: "/images/food1.jpg", span: "", label: "Brunch Plates" },
-  { src: "/images/about.jpg", span: "", label: "Behind the Bar" },
+  { src: "./images/hero.jpg", span: "col-span-2 row-span-2", label: "Our Space" },
+  { src: "./images/coffee1.jpg", span: "", label: "Signature Coffee" },
+  { src: "./images/pastry1.jpg", span: "", label: "Fresh Pastries" },
+  { src: "./images/food1.jpg", span: "", label: "Brunch Plates" },
+  { src: "./images/about.jpg", span: "", label: "Behind the Bar" },
 ];
 
 export default function Gallery() {
